@@ -17,7 +17,7 @@ const App = () => {
         <CommentDetail
           author="Filip"
           timeAgo="Today at 4:45PM"
-          commentText="5/7 comment"
+          commentText="Why even comment"
           imageSrc={faker.image.avatar()}
         />
       </ApprovalCard>
@@ -25,7 +25,7 @@ const App = () => {
         <CommentDetail
           author="Alex"
           timeAgo="Today at 2:00AM"
-          commentText="Potatoes are good shiit"
+          commentText="Potatoes?"
           imageSrc={faker.image.avatar()}
         />
       </ApprovalCard>
@@ -34,7 +34,7 @@ const App = () => {
         <CommentDetail
           author="Jane"
           timeAgo="Yesterday at 3:00PM"
-          commentText="I don't want to see you naked"
+          commentText="I don't have time"
           imageSrc={faker.image.avatar()}
         />
       </ApprovalCard>
